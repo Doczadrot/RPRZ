@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Телеграм-бот для учета несоответствий
 
 ## Описание
@@ -79,4 +79,3 @@ storage/
 MIT License
 
 GitHub: https://github.com/Doczadrot/RPRZ
->>>>>>> 408ec36b8caa5135f6471a91cda789223f0cb61d
